@@ -24,8 +24,8 @@ Calcular el **Overall Equipment Effectiveness (OEE)** de una línea de empaque c
 Analizar causa raíz de la avería motor y planificar mantenimiento predictivo para eliminar esa parada no planificada.
 
 ## Resultados
-![OEE barras](img/oee_barras.png)
-![OEE líneas](img/oee_lineas.png)
+![OEE barras](https://github.com/ccortest/An-lisis-OEE-l-nea-de-producci-n/blob/main/oee_proyecto/img/oee_barras.png)
+![OEE líneas](https://github.com/ccortest/An-lisis-OEE-l-nea-de-producci-n/blob/main/oee_proyecto/img/oee_lineas.png)
 
 ## Cómo reproducir
 1. Clona el repo.
