@@ -1,0 +1,5 @@
+fecha,turno,linea,prod_real,prod_teorica
+2025-01-06,A,Linea1,850,1000
+2025-01-06,B,Linea1,920,1000
+2025-01-07,A,Linea1,780,1000
+2025-01-07,B,Linea1,950,1000
